@@ -118,6 +118,8 @@ p , button{
     height: 400px;
     animation-name: side-right;
     animation-duration: 4s;
+    mix-blend-mode: multiply;
+
 }
 
 .traimage img {
